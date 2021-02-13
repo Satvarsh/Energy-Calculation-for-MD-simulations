@@ -17,5 +17,5 @@ Note : Some parallel functions which I am used in my code are <br>
 - pragma omp parallel<br> 
 - pragma omp reduction <br>
 - pragma omp for<br>
-- pragma omp shared<br><br>
+- pragma omp shared<br>
 - pragma omp private<br>
