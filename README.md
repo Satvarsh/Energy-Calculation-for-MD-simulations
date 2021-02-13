@@ -9,7 +9,7 @@ Made this as my university project for Parallel and Distributed Computing Course
 
 ## Contents
 
-- Report <br>
+- Report (Test Reports + Video DEMO and more) <br>
 - Code<br>
 
 Note : Some parallel functions which I am used in my code are <br> 
